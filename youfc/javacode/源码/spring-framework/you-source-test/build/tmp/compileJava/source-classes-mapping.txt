@@ -1,0 +1,6 @@
+org/example/design/Main.java
+ org.example.design.Main
+com/you/spirng/spring/MainTest.java
+ com.you.spirng.spring.MainTest
+com/you/spirng/spring/bean/Person.java
+ com.you.spirng.spring.bean.Person
